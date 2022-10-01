@@ -1,0 +1,162 @@
+@media only screen and (max-width:1024px){
+    .banner-container {
+        width: 50%;
+    }
+    .title-banner h2{
+        font-size: 71.67px;
+    }
+    .title-banner h3 {
+        margin-bottom: 45px;
+    }
+    .des-banner p {
+        font-size: 18.83px;
+    }
+    .des-letgo p{
+        font-size: 23.08px;
+    }
+    .des-item p{
+        font-size: 17.92px;
+    }
+    .title-item h2{
+        font-size: 27.17px;
+    }
+    .banner {
+        padding-top: 150px;
+    }
+    .item-discount{
+        padding-top: 100px;
+    }
+    .item-discount{
+        width: 400px;
+    }
+    .title-discount h2 {
+        font-size: 43.33px;
+    }
+    .des-discount p {
+        margin-top: 35px;
+        margin-bottom: 55px;
+    }
+    .des-discount p {
+        font-size: 21.17px;
+    }
+    .item-news {
+        width: 240px;
+    }
+    .des-news p {
+        font-size: 14.75px;
+    }
+    .title-news h2 {
+        margin-bottom: 10px;
+        font-size: 29.33px;
+    }
+    .title-extend h2{
+        margin-top:50px;
+    }
+    footer{
+        height: 620px;
+    }
+    .item-footer {
+        padding: 0 14px;
+    }
+    .items-footer{
+        margin: 0 -14px;
+    }
+    .content-menu-footer ul li {
+        padding: 5px 0;
+    }
+    .title-footer h2 {
+        font-size: 26.6px;
+    }
+    .title-menu-footer h2 {
+        font-size: 26.6px;
+    }
+    .here-footer {
+        width: 370px;
+    }
+    .des-footer p {
+        font-size: 17.7px;
+    }
+    .content-menu-footer ul li a {
+        font-size: 17.7px;
+    }
+    .des-here p{
+        font-size: 21.72px;
+    }
+    .form-contact form input{
+        font-size: 19px;
+    }
+    .des-extend p{
+        font-size: 19px;
+    }
+    .des-hiking p {
+        font-size: 25.17px;
+    }
+    .img-hiking {
+        bottom: -178px;
+    }
+    .title-explore {
+        padding-top: 360px;
+        padding-right: 50px;
+    }
+    .title-explore h2 {
+        font-size: 55px;
+    }
+    .news{
+        padding-top:0;
+    }
+    .container-here {
+        padding-top: 230px;
+    }
+    .footer {
+        padding-top: 250px;
+    }
+    .container-hiking {
+        padding-top: 280px;
+    }
+    .menu ul li {
+        padding: 0px 10px;
+    }
+    .menu ul {
+        margin: 0 -10px;
+    }
+    .search {
+        padding: 0 24px;
+    }
+    .container-header{
+        margin-right: -24px;
+    }
+    .content-menu{
+        margin-right: -24px;
+    }
+    .readmore-discount a{
+        font-size: 21.17px;
+    }
+    .item-promo {
+        padding-left: 70px;
+        padding-top: 100px;
+        width: 400px;
+    }
+    .title-letgo h2{
+        font-size: 47.5px;
+        margin-top:0;
+    }
+    .show-more a{
+        font-size: 18.15px;
+    }
+    .des-letgo {
+        width: 680px;
+    }
+    .readmore-discount {
+        width: 245px;
+    }
+    .title-hiking h2 {
+        font-size: 48.33px;
+    }
+    .form-contact form button{
+        width: 160px;
+        font-size: 19px;
+    }
+    .explore {
+        height: 820px;
+    }
+}

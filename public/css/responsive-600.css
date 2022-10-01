@@ -1,0 +1,153 @@
+@media only screen and (max-width:600px){
+    .des-letgo p {
+        width: auto;
+    }
+    .search form{
+        width: 150px;
+    }
+    .search form input{
+        width: 80px;
+    }
+    .search button {
+        border-radius: 30px;
+    }
+    .menu ul li a {
+        font-size: 15.67px;
+    }
+    .banner-container {
+        width: 100%;
+    }
+    .title-letgo h2 {
+        font-size: 45.5px;
+    }
+    .des-letgo p {
+        font-size: 16.08px;
+    }
+    .title-discount h2 {
+        font-size: 33.33px;
+    }
+    .title-hiking h2 {
+        font-size: 35.33px;
+    }
+    .des-hiking p {
+        font-size: 15.17px;
+    }
+    .img-hiking {
+        bottom: -88px;
+    }
+    .explore {
+        height: 400px;
+    }
+    .item-discount {
+        padding-top: 50px;
+    }
+    .des-discount p {
+        font-size: 16.17px;
+    }
+    .title-explore {
+        padding-top: 170px;
+    }
+    .des-extend p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .des-news p {
+        font-size: 16.75px;
+    }
+    .title-news h2 {
+        font-size: 25.33px;
+    }
+    .des-news p {
+        font-size: 15.75px;
+    }
+    .title-here h2 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .container-here{
+        padding-top: 150px;
+    }
+    .title-extend h2 {
+        margin-top: 30px;
+    }
+    .des-here p {
+        margin-bottom: 30px;
+    }
+    .footer {
+        padding-top: 200px;
+    }
+    .title-footer h2 {
+        font-size: 24.6px;
+    }
+    .des-footer p {
+        font-size: 15.7px;
+    }
+    .title-explore h2 {
+        font-size: 30px;
+    }
+    .info img {
+        height: 30px;
+        width: 30px;
+    }
+    .title-menu-footer h2 {
+        font-size: 29.6px;
+    }
+    .content-menu-footer ul li a {
+        font-size: 15.7px;
+    }
+    .readmore-discount a {
+        font-size: 15.17px;
+    }
+    .title-banner h2 {
+        font-size: 41.67px;
+    }
+    .title-letgo h2 {
+        font-size: 33.5px;
+    }
+    .title-banner {
+        width: 280px;
+    }
+    .title-banner h3 {
+        font-size: 15px;
+    }
+    .readmode-banner a {
+        font-size: 15.98px;
+        width: 150px;
+    }
+    .banner {
+        padding-top: 30px;
+    }
+    header{
+        padding-bottom: 150px;
+    }
+    .logo img{
+        width: 60px;
+        height: 60px;
+    }
+    .search form{
+        height: 40px;
+        line-height: 0;
+    }
+    .menu{
+        top: 110px;
+    }
+    .readmore-discount {
+        width: 200px;
+    }
+    .container-hiking {
+        padding-top: 130px;
+    }
+    .hiking{
+        padding-bottom: 100px;
+    }
+    .form-contact form button{
+        font-size: 15px;
+        height: 42px;
+        width: 110px;
+        right: 22%;
+    }
+    .form-contact form input {
+        font-size: 15px;
+        height: 40px;
+    }
+}

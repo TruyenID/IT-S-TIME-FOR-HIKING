@@ -1,0 +1,163 @@
+@media only screen and (max-width:992px){
+    .title-banner h2 {
+        font-size: 61.67px;
+    }
+    .title-banner h3{
+        font-size: 23px;
+    }
+    .des-banner p {
+        font-size: 15.83px;
+        width: 354px;
+    }
+    .title-letgo h2 {
+        font-size: 42.5px;
+        margin-top: 0px;
+        margin-bottom: 34px;
+    }
+    .banner {
+        padding-top: 80px;
+    }
+    .title-item h2 {
+        font-size: 20.17px;
+    }
+    .des-letgo p {
+        width: 500px;
+        font-size: 19.08px;
+    }
+    .des-item {
+        font-size: 12.92px;
+    }
+    .readmode-banner a {
+        font-size: 19.98px;
+    }
+    .show-more a{
+        font-size: 19.15px;
+    }
+    .items-letgo {
+        padding-top: 50px;
+    }
+    .item-discount {
+       width: 360px;
+       padding-bottom: 50px;
+    }
+    .title-discount h2 {
+        font-size: 38.33px;
+    }
+    .des-discount p {
+        font-size: 18.17px;
+        margin-top: 25px;
+        margin-bottom: 45px;
+    }
+    .readmore-discount a {
+        font-size: 20.17px;
+    }
+    .container-hiking {
+        padding-top: 230px;
+    }
+    .explore {
+        height: 790px;
+    }
+    .img-hiking {
+        bottom: -138px;
+    }
+    .title-explore {
+        padding-top: 360px;
+        padding-right: 120px;
+    }
+    .title-explore h2 {
+        font-size: 45px;
+    }
+    .title-hiking h2 {
+        font-size: 43.33px;
+    }
+    .des-hiking p {
+        font-size: 23.17px;
+        margin: 0 auto;
+    }
+    .title-news h2 {
+        font-size: 27.33px;
+    }
+    .item-news {
+        width: 31.33%;
+    }
+    .des-news p {
+        font-size: 12.75px;
+    }
+    .des-extend p {
+        font-size: 18px;
+    }
+    .title-extend h2 {
+        font-size: 90px;
+    }
+    .author p {
+        font-size: 18.83px;
+    }
+    .title-here h2 {
+        font-size: 60px;
+    }
+    .search {
+        padding: 0px 10px;
+    }
+    .content-menu {
+        margin-right: -10px;
+    }
+    .letgo {
+        padding-bottom: 100px;
+    }
+    .form-contact form button{
+        width: 150px;
+        height: 53px;
+    }
+    .container-here {
+        padding-top: 180px;
+    }
+    .footer {
+        display: block;
+        text-align: center;
+    }
+    .here-footer {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    footer {
+        height: 850px;
+    }
+    .items-footer{
+        justify-content: space-between;
+    }
+    .item-footer{
+        width: 30%;
+    }
+    .content-menu-footer{
+        width: 100%;
+    }
+    .content-menu-footer ul li a {
+        font-size: 18.7px;
+    }
+    .title-menu-footer h2 {
+        font-size: 29.6px;
+    }
+    .title-footer h2 {
+        font-size: 29.6px;
+    }
+    .des-footer p {
+        font-size: 16.7px;
+        width: 80%;
+        margin: 20px auto;
+    }
+    .menu-footer {
+        width: 91%;
+        margin: 0 auto
+    }
+    .des-item p {
+        font-size: 15.92px;
+    }
+    .item-promo{
+        padding-bottom: 50px;
+        width: 360px;
+        padding-left: 60px;
+    }
+    .title-banner {
+        width: 400px;
+    }
+}
